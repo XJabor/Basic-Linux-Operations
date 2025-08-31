@@ -11,17 +11,17 @@ Example Submitted Document
 
 ---
 # Tips and Tricks
-Press the "up" arrow to go to your last command. Keep pressing the "up" arrow to go back further in your command history
+- Press the "up" arrow to go to your last command. Keep pressing the "up" arrow to go back further in your command history
 
-The "tab" button can be used to autocomplete entries in the command line. Using the "tab" key to autocomplete saves time and reduces the chance for spelling mistakes. Use it often, it will help with the challenges
+- The "tab" button can be used to autocomplete entries in the command line. Using the "tab" key to autocomplete saves time and reduces the chance for spelling mistakes. Use it often, it will help with the challenges
 
-Use the ```exit``` command to quit your current SSH session
+- Use the ```exit``` command to quit your current SSH session
 
-Press "CTRL + L" to clear the contents of your screen. This is helpful to keep an organized terminal
+- Press "CTRL + L" to clear the contents of your screen. This is helpful to keep an organized terminal
 
-There is a way to ignore errors (like permission denied) when finding things in the terminal
+- There is a way to ignore errors (like permission denied) when finding things in the terminal
 
-You do not need to go to where the file exists to access it. Any file can be accessed from anywhere using the full path name. Reference [[03-Linux-Filesystem]] as necessary
+- You do not need to go to where the file exists to access it. Any file can be accessed from anywhere using the full path name. Reference [[03-Linux-Filesystem]] as necessary
 
-Linux has built in manuals for many commands. If you wanted to look at the manual for "ssh" you would use the command ```man ssh```
+- Linux has built in manuals for many commands. If you wanted to look at the manual for "ssh" you would use the command ```man ssh```
 
