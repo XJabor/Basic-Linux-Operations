@@ -7,7 +7,6 @@ In this course, you will learn:
 # Course Organization
 - What is the Linux Terminal?
 - Basics of the Linux Filesystem
-- Basics of File Permissions
 - Secure Shell (SSH)
 - Bandit Capture the Flag (CTF) Levels 1-10
 ---
